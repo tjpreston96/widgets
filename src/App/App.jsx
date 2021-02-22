@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 // import Accordion from "../components/Accordion/Accordion";
 import Search from "../components/Search/Search";
+import Dropdown from '../components/Dropdown/Dropdown'
 
 const items = [
   {
@@ -22,7 +23,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Search/>
+        <Dropdown/>
       </div>
     );
   }
