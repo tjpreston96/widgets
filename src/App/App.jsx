@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 // import Accordion from "../components/Accordion/Accordion";
 import Search from "../components/Search/Search";
-import Dropdown from '../components/Dropdown/Dropdown'
+import Dropdown from "../components/Dropdown/Dropdown";
 
 const items = [
   {
@@ -18,12 +18,18 @@ const items = [
   },
 ];
 
+const options = [
+  { label: "The Color Red", value: "red" },
+  { label: "The Color Green", value: "green" },
+  { label: "The Color Blue", value: "blue" },
+];
+
 class App extends Component {
   state = {};
   render() {
     return (
       <div>
-        <Dropdown/>
+        <Dropdown options={options} />
       </div>
     );
   }
