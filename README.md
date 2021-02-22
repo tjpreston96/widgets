@@ -1,3 +1,59 @@
+# App Images
+
+---
+
+## **Accordion**
+
+---
+
+### Default
+
+![accordionDefault](public/images/Accordion/Accordion.png)
+
+### [0]
+
+![accordion[0]](public/images/Accordion/Accordion[0].png)
+
+### [1]
+
+![accordion[1]](public/images/Accordion/Accordion[1].png)
+
+### [2]
+
+![accordion[2]](public/images/Accordion/Accordion[2].png)
+
+---
+
+## **Search**
+
+---
+
+### Default
+
+![searchDefault](public/images/Search/ReactSearchDefault.png)
+
+### Jeep Search
+
+![jeepSearch](public/images/Search/ReactSearchJeep.png)
+
+### React Search
+
+![reactSearch](public/images/Search/ReactSearchReact.png)
+
+### React Search ('Go' Redirect)
+
+![goButtonRedirect](public/images/Search/GoButtonRedirect.png)
+
+---
+
+## **Dropdown**
+
+---
+
+### Default
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +124,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # widgets
