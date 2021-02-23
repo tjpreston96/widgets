@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import Dropdown from "../Dropdown/Dropdown";
 import Convert from "../Convert/Convert";
 
-// todo --> AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM
-
 const options = [
   { label: "Afrikaans", value: "af" },
   { label: "Arabic", value: "ar" },
